@@ -15,7 +15,7 @@ This technology stack enables the application to render 3D models of planets and
 https://youtube.com/shorts/OnljK8f89hA?feature=share
 
 #Screenshots :
-1.![WhatsApp Image 2025-04-01 at 1 41 31 PM](https://github.com/user-attachments/assets/dd304ec6-9940-4692-af53-86307dbc29cc)
+1. ![WhatsApp Image 2025-04-01 at 1 41 31 PM](https://github.com/user-attachments/assets/dd304ec6-9940-4692-af53-86307dbc29cc)
 2. ![image](https://github.com/user-attachments/assets/26fa6296-10df-47e8-9679-2d01cb24ba27)
 3. ![image](https://github.com/user-attachments/assets/21b54a35-ca76-4fb6-b5f9-9edb9121494b)
 4. ![image](https://github.com/user-attachments/assets/f4c400d9-c98d-4568-96f3-b5f9392fcba3)
