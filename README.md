@@ -1,6 +1,17 @@
 #Capgemini_Project
 Chanakya 2.0 is an innovative education technology solution that integrates Artificial Intelligence (AI) and Augmented Reality (AR) to enhance learning experiences. By leveraging AI-driven personalization and AR-based interactivity, this project aims to make education more engaging, inclusive, and effective.
 
+#Technology Stack for the Solar System Augmented Reality Application
+Our AR application is built using the following technologies:
+
+- Unity – The primary game engine used for 3D rendering and interactive AR experiences.
+- C# – The scripting language used within Unity to control behaviors and interactions.
+- ARCore – Google’s AR development kit, enabling motion tracking, environmental understanding, and AR functionality.
+- Python – Used for personal assistance features and voice system integration, implemented in Google Colab.
+- Gemini APIs – Used for AI-powered personal assistance and interaction.
+
+This technology stack enables the application to render 3D models of planets and provide an immersive and interactive AR experience.
+
 #Video 
 https://youtube.com/shorts/OnljK8f89hA?feature=share
 
